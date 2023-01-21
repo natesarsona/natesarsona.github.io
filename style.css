@@ -216,6 +216,10 @@ RESPONSIVE
     width: 85%;
   }
 
+  .column-with-links a{
+    font-size: 52px;
+  }
+
   .column-main-project-image {
     margin-bottom: 80px;
   }
@@ -318,6 +322,10 @@ RESPONSIVE
     padding-right: 0vw;
   }
 
+  .column-with-links a{
+    font-size: 36px;
+  }
+
   .column-main-container-small {
     padding-right: 10vw;
   }
@@ -334,6 +342,10 @@ RESPONSIVE
 
   .column-main-container-large {
     padding-right: 10px;
+  }
+
+  .column-with-links a{
+    font-size: 23px;
   }
 
   .column-main-container-small {
