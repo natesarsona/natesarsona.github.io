@@ -328,6 +328,10 @@ RESPONSIVE
     padding-right: 10px;
   }
 
+  .column-with-links a{
+    font-size: 23px;
+  }
+
   .column-main-container-small {
     padding-right: 10px;
   }
